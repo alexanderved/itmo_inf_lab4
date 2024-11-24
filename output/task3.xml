@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <document>
+        <value>
+            <day>
+                <name>Понедельник</name>
+                <lessons>
+                    <value>
+                        <lesson>Английский язык C1</lesson>
+                        <type>Практика</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>8:20</start>
+                        <end>9:50</end>
+                        <teacher>Хованцева Анастасия Анатольевна</teacher>
+                        <building>ул.Ломоносова, д.9, лит. Е</building>
+                        <room>3401а</room>
+                    </value>
+                    <value>
+                        <lesson>Английский язык C1</lesson>
+                        <type>Практика</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>10:00</start>
+                        <end>11:30</end>
+                        <teacher>Хованцева Анастасия Анатольевна</teacher>
+                        <building>ул.Ломоносова, д.9, лит. Е</building>
+                        <room>3401а</room>
+                    </value>
+                    <value>
+                        <lesson>Линейная алгебра (продвинутый уровень)</lesson>
+                        <type>Лекция</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>15:20</start>
+                        <end>16:50</end>
+                        <teacher>Карпов Дмитрий Валерьевич</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>1404</room>
+                    </value>
+                    <value>
+                        <lesson>Линейная алгебра (продвинутый уровень)</lesson>
+                        <type>Практика</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>17:00</start>
+                        <end>18:30</end>
+                        <teacher>Гилев Павел Андреевич</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>2336</room>
+                    </value>
+                </lessons>
+            </day>
+        </value>
+        <value>
+            <day>
+                <name>Пятница</name>
+                <lessons>
+                    <value>
+                        <lesson>Специальные разделы математического анализа</lesson>
+                        <type>Практика</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>10:00</start>
+                        <end>11:30</end>
+                        <teacher>Старков Александр Сергеевич</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>2337</room>
+                    </value>
+                    <value>
+                        <lesson>Математический анализ (продвинутый уровень)</lesson>
+                        <type>Практика</type>
+                        <weeks>
+                            <value>Четная</value>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>11:40</start>
+                        <end>13:10</end>
+                        <teacher>Блинова Ирина Владимировна</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>2316</room>
+                    </value>
+                    <value>
+                        <lesson>Основы профессиональной деятельности</lesson>
+                        <type>Лабораторная</type>
+                        <weeks>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>17:00</start>
+                        <end>18:30</end>
+                        <teacher>Деменев Тимур Гурбанович</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>2308</room>
+                    </value>
+                    <value>
+                        <lesson>Основы профессиональной деятельности</lesson>
+                        <type>Лабораторная</type>
+                        <weeks>
+                            <value>Нечетная</value>
+                        </weeks>
+                        <start>18:40</start>
+                        <end>20:10</end>
+                        <teacher>Деменев Тимур Гурбанович</teacher>
+                        <building>Кронверкский пр., д.49, лит.А</building>
+                        <room>2308</room>
+                    </value>
+                </lessons>
+            </day>
+        </value>
+    </document>
+</root>

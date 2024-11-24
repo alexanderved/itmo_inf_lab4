@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <value>
+        <day>
+            <name>Вторник</name>
+            <lessons></lessons>
+        </day>
+    </value>
+    <value>
+        <day>
+            <name>Пятница</name>
+            <lessons>
+                <value>
+                    <lesson>Специальные разделы математического анализа</lesson>
+                    <type>Практика</type>
+                    <weeks>
+                        <value>Четная</value>
+                        <value>Нечетная</value>
+                    </weeks>
+                    <start>10:00</start>
+                    <end>11:30</end>
+                    <teacher>Старков Александр Сергеевич</teacher>
+                    <building>Кронверкский пр., д.49, лит.А</building>
+                    <room>2337</room>
+                </value>
+                <value>
+                    <lesson>Математический анализ (продвинутый уровень)</lesson>
+                    <type>Практика</type>
+                    <weeks>
+                        <value>Четная</value>
+                        <value>Нечетная</value>
+                    </weeks>
+                    <start>11:40</start>
+                    <end>13:10</end>
+                    <teacher>Блинова Ирина Владимировна</teacher>
+                    <building>Кронверкский пр., д.49, лит.А</building>
+                    <room>2316</room>
+                </value>
+                <value>
+                    <lesson>Основы профессиональной деятельности</lesson>
+                    <type>Лабораторная</type>
+                    <weeks>
+                        <value>Нечетная</value>
+                    </weeks>
+                    <start>17:00</start>
+                    <end>18:30</end>
+                    <teacher>Деменев Тимур Гурбанович</teacher>
+                    <building>Кронверкский пр., д.49, лит.А</building>
+                    <room>2308</room>
+                </value>
+                <value>
+                    <lesson>Основы профессиональной деятельности</lesson>
+                    <type>Лабораторная</type>
+                    <weeks>
+                        <value>Нечетная</value>
+                    </weeks>
+                    <start>18:40</start>
+                    <end>20:10</end>
+                    <teacher>Деменев Тимур Гурбанович</teacher>
+                    <building>Кронверкский пр., д.49, лит.А</building>
+                    <room>2308</room>
+                </value>
+            </lessons>
+        </day>
+    </value>
+</root>
